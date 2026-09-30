@@ -1,0 +1,5 @@
+pyTelegramBotAPI==4.37.0
+psycopg2-binary==2.9.13
+requests==2.34.2
+# только для static_map_pasengers.py
+Pillow==12.3.0
